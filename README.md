@@ -12,6 +12,32 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+## Jawaban knowledge base
+
+1. DevOps yaitu sebuah prinsip untuk mengotomatisikan serta mengintegrasi proses antara Developer dan Operational. Tujuan DevOps antara lain menjaga stabilitas dan keandalan sistem, mempercepat waktu peluncuran produk, dan meningkatkan mean time to recovery (MTTR).
+2. Infrastructure dalam konteks Teknologi Informasi dan Sistem Komputer merupakan kerangka dasar atau pondasi yang mendukung operasi dan fungsionalitas sistem IT. Juga merupakan kombinasi dari hardware, software, network, dan sumber daya lain yang diperlukan untuk menjalankan aplikasi, layanan, dan operasi teknologi informasi dalam suatu organisasi.
+3. Server merupakan hardware khusus yang dirancang untuk memberikan layanan, sumber daya, atau data kepada komputer  yang dikenal sebagai klien atau jaringan. Server berperan sebagai pusat data atau sumber data yang dapat diakses oleh pengguna atau aplikasi lain.
+    - Web Server
+      - Web server digunakan untuk menyimpan dan mengirimkan halaman web kepada user melalui internet. Contohnya Apache HTP Server, Nginx, dll.
+    - Database Server
+      - Database server digunakan untuk menyimpan, mengelola, dan mengambil data dari basis data. Contohnya MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database.
+    - Application Server
+      - Application server digunakan untuk menjalankan aplikasi bisnis dan menyediakan layanan seperti pemrosesan transaksi dan komunikasi antar aplikasi. Contohnya Apache Tomcat, Microsoft.NET Application Server.
+4. Karena dalam pengembangan software diperlukan sebagai infrastruktur yang mendukung pengujian, kolaborasi tim, dan pengiriman aplikasi.
+5. Virtualisasi dan Container merupakan dua konsep penting dalam dunia Cloud Computing yang memungkinkan pengelolaan dan penggunaan sumber daya Cloud dengan lebih efisien.
+    - Virtualisasi
+      - Merupakan teknologi yang memungkinkan satu fisik server untuk menjalankan beberapa mesin virtual (VM) atau sistem operasi yang terisolasi secara bersamaan. Seperti Contohnya Oracle VirtualBox, dan VMware vSphere/ESXi.
+    - Container
+      - Merupakan teknologi yang memungkinkan aplikasi dan semua dependensinya dikemas bersama dalam unit yang disebut Container.  Container ini berjalan di atas sistem operasi host yang sama, tetapi terisolasi satu sama lain. Seperti Contohnya Docker, Kubernetes, dan Podman.
+6. Karena memiliki efesiensi sumber daya yang tinggi, memastikan portabilitas lintas platform, penyediaan yang cepat, serta kemampuannya untuk mengelola aplikasi dan layanan secara skalabel. 
+7. Orchestration Container System mengotomatisasi deployment, management, scalling, dan jaringan kontainer. Orchestration Container digunakan untuk:
+    - Provisioning and deployment
+    - Configuration and scheduling
+    - Resource allocation
+    - Container availability
+    - Load balancing and traffic routing 
+    - Monitoring container health
+
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
