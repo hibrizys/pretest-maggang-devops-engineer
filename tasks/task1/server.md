@@ -36,11 +36,11 @@ server {
     server_name hibrizys.gmail.com;
     
     charset utf-8;
-    root    /home/hibriys/Documents/Hibrizy-Web/dist;
+    root    /home/hibrizys/Documents/Hibrizy-Web/dist;
     index   index.html;
    
     location / {
-        root /home/hibriys/Documents/Hibrizy-Web/dist;
+        root /home/hibrizys/Documents/Hibrizy-Web/dist;
         try_files $uri  /index.html;
     }    
     error_log  /var/log/nginx/vue-app-error.log;
